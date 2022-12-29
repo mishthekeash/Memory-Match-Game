@@ -1,0 +1,49 @@
+Arborvitae
+Thuja
+Black Ash
+Fraxinus
+White Ash
+Fraxinus
+Bigtooth Aspen
+Populus
+Quaking Aspen
+Populus
+Basswood
+Tilia
+American Beech
+grandifolia
+Birch
+lenta
+populifolia
+Birch
+Betula
+Birch
+Betula 
+Butternut
+Juglans
+Cherry
+serotina
+Cherry
+pensylvanica
+Chestnut
+Castanea
+Cottonwood
+deltoides
+Cucumber
+Magnolia
+Elm
+Ulmus
+Elm
+Ulmus
+Balsam Fir
+Abies
+Hawthorn
+Crataegus
+Hemlock
+Tsuga
+Hickory
+cordiformis
+PigHickory
+Carya
+ShaHickory
+Carya
